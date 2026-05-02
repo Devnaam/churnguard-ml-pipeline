@@ -1,0 +1,17 @@
+{
+  "high_risk": {
+    "row_position": 1090,
+    "actual_churn": 1,
+    "predicted_probability": 0.945320188999176
+  },
+  "low_risk": {
+    "row_position": 1344,
+    "actual_churn": 0,
+    "predicted_probability": 0.02319551445543766
+  },
+  "borderline": {
+    "row_position": 1005,
+    "actual_churn": 1,
+    "predicted_probability": 0.5957732200622559
+  }
+}
