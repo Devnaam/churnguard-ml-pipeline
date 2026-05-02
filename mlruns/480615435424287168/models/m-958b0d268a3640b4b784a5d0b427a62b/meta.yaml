@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Data%20Science/churnguard-ml-pipeline/mlruns/480615435424287168/models/m-958b0d268a3640b4b784a5d0b427a62b/artifacts
+creation_timestamp: 1777736662280
+experiment_id: '480615435424287168'
+last_updated_timestamp: 1777736675451
+model_id: m-958b0d268a3640b4b784a5d0b427a62b
+model_type: null
+name: logistic_regression
+source_run_id: e5b85635c0fe47cf844f89369d81cdd4
+status: 2
+status_message: null

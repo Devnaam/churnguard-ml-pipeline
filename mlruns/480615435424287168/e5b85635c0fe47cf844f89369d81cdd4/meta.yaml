@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Data%20Science/churnguard-ml-pipeline/mlruns/480615435424287168/e5b85635c0fe47cf844f89369d81cdd4/artifacts
+end_time: 1777736675501
+entry_point_name: ''
+experiment_id: '480615435424287168'
+lifecycle_stage: active
+run_id: e5b85635c0fe47cf844f89369d81cdd4
+run_name: logistic_regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777736661905
+status: 3
+tags: []
+user_id: Devnaam_priyadershi

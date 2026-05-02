@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Data%20Science/churnguard-ml-pipeline/mlruns/480615435424287168/2eabb68ebd9342d0a04c6d31c492f441/artifacts
+end_time: 1777736637436
+entry_point_name: ''
+experiment_id: '480615435424287168'
+lifecycle_stage: active
+run_id: 2eabb68ebd9342d0a04c6d31c492f441
+run_name: xgboost_base
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777736608040
+status: 3
+tags: []
+user_id: Devnaam_priyadershi

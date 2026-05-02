@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Data%20Science/churnguard-ml-pipeline/mlruns/480615435424287168/models/m-b36890f53c1d4371b37c628816ed8186/artifacts
+creation_timestamp: 1777736641601
+experiment_id: '480615435424287168'
+last_updated_timestamp: 1777736661850
+model_id: m-b36890f53c1d4371b37c628816ed8186
+model_type: null
+name: random_forest
+source_run_id: c337603504b24eacabbb75aea5890616
+status: 2
+status_message: null

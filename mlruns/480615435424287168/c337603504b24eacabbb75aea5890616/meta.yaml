@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Data%20Science/churnguard-ml-pipeline/mlruns/480615435424287168/c337603504b24eacabbb75aea5890616/artifacts
+end_time: 1777736661887
+entry_point_name: ''
+experiment_id: '480615435424287168'
+lifecycle_stage: active
+run_id: c337603504b24eacabbb75aea5890616
+run_name: random_forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777736637484
+status: 3
+tags: []
+user_id: Devnaam_priyadershi

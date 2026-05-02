@@ -1,0 +1,23 @@
+artifact_path: file:///D:/Data%20Science/churnguard-ml-pipeline/mlruns/480615435424287168/models/m-958b0d268a3640b4b784a5d0b427a62b/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.11.1
+model_id: m-958b0d268a3640b4b784a5d0b427a62b
+model_size_bytes: 2396
+model_uuid: m-958b0d268a3640b4b784a5d0b427a62b
+prompts: null
+run_id: e5b85635c0fe47cf844f89369d81cdd4
+utc_time_created: '2026-05-02 15:44:22.414214'

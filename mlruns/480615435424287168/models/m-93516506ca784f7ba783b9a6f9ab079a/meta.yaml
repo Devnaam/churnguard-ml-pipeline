@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Data%20Science/churnguard-ml-pipeline/mlruns/480615435424287168/models/m-93516506ca784f7ba783b9a6f9ab079a/artifacts
+creation_timestamp: 1777736609737
+experiment_id: '480615435424287168'
+last_updated_timestamp: 1777736637352
+model_id: m-93516506ca784f7ba783b9a6f9ab079a
+model_type: null
+name: xgboost_base
+source_run_id: 2eabb68ebd9342d0a04c6d31c492f441
+status: 2
+status_message: null

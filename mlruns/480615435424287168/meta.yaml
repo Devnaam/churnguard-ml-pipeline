@@ -1,0 +1,8 @@
+artifact_location: file:///D:/Data%20Science/churnguard-ml-pipeline/mlruns/480615435424287168
+creation_time: 1777736606759
+experiment_id: '480615435424287168'
+last_update_time: 1777736606759
+lifecycle_stage: active
+name: ChurnGuard
+trace_location: null
+workspace: default
